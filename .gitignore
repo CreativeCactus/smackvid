@@ -1,2 +1,4 @@
 # Ignore content
 *.mp4
+# Node
+node_modules
